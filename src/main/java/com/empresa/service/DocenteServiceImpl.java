@@ -36,7 +36,7 @@ public class DocenteServiceImpl implements DocenteService {
 
 	@Override
 	public void eliminaDocente(int id) {
-		repository.deleteById(id);	
+		repository.deleteById(id);
 	}
 
 
@@ -44,6 +44,7 @@ public class DocenteServiceImpl implements DocenteService {
 	public Optional<Docente> buscaDocente(int id) {
 		return repository.findById(id);
 	}
+
 
 
 
