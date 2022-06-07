@@ -1,4 +1,4 @@
-# DAWII-Sesion11BackendFinalizado
+# DAWII-Sesion10BackendFinalizado
 ### Servicio Rest - Crud en dos Tablas relacionadas - Validaciones - Eliminar Físico- SweetAlert
 
 ## Autor ✒️
